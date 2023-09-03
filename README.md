@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SergeyKrasnolobov
-- 👀 I’m interested in WebDevelopment
-- ⌛️ I’m currently learning Data-Structures
-- 🛠 Work in sphere of telecomunications 
+- 👀 I`m passionate of WebDevelopment and improve of UX
+- 🛠 Work in sphere of telecomunications
+- 👨🏻‍🏫 Acting mentor at the PurpleSchool 
 
